@@ -1,0 +1,14 @@
+C:\Users\ggome\ListaCondicional\Exercicio_IV\bin\Debug\net8.0\Exercicio_IV.exe
+C:\Users\ggome\ListaCondicional\Exercicio_IV\bin\Debug\net8.0\Exercicio_IV.deps.json
+C:\Users\ggome\ListaCondicional\Exercicio_IV\bin\Debug\net8.0\Exercicio_IV.runtimeconfig.json
+C:\Users\ggome\ListaCondicional\Exercicio_IV\bin\Debug\net8.0\Exercicio_IV.dll
+C:\Users\ggome\ListaCondicional\Exercicio_IV\bin\Debug\net8.0\Exercicio_IV.pdb
+C:\Users\ggome\ListaCondicional\Exercicio_IV\obj\Debug\net8.0\Exercicio_IV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggome\ListaCondicional\Exercicio_IV\obj\Debug\net8.0\Exercicio_IV.AssemblyInfoInputs.cache
+C:\Users\ggome\ListaCondicional\Exercicio_IV\obj\Debug\net8.0\Exercicio_IV.AssemblyInfo.cs
+C:\Users\ggome\ListaCondicional\Exercicio_IV\obj\Debug\net8.0\Exercicio_IV.csproj.CoreCompileInputs.cache
+C:\Users\ggome\ListaCondicional\Exercicio_IV\obj\Debug\net8.0\Exercicio_IV.dll
+C:\Users\ggome\ListaCondicional\Exercicio_IV\obj\Debug\net8.0\refint\Exercicio_IV.dll
+C:\Users\ggome\ListaCondicional\Exercicio_IV\obj\Debug\net8.0\Exercicio_IV.pdb
+C:\Users\ggome\ListaCondicional\Exercicio_IV\obj\Debug\net8.0\Exercicio_IV.genruntimeconfig.cache
+C:\Users\ggome\ListaCondicional\Exercicio_IV\obj\Debug\net8.0\ref\Exercicio_IV.dll
